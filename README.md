@@ -1,6 +1,6 @@
 # chufeiluo.github.io
 
-Chu-Fei Luo (they/them)
+Chufei Luo (they/them)
 [LinkedIn](https://www.linkedin.com/in/chu-fei-luo-40a18a171/) | [Github](https://github.com/chufeiluo)
 
 MASc student at Queen's University in Kingston, Ontario. My main area of research is applying the latest advancements in NLP to high-stakes tasks, with a focus on interpretability and few-shot technologies. I've worked with various legal tasks including personal injury and legal citation prediction.
