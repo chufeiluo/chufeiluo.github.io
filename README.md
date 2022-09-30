@@ -9,5 +9,5 @@ Supervised by Dr. Xiaodan Zhu and Dr. Samuel Dahan.
 
 # Publications
 
-  Luo, C. F., Bhambhoria, R., Dahan, S., & Zhu, X. (2022). Evaluating Explanation Correctness in Legal Decision Making. Proceedings of the Canadian Conference on Artificial Intelligence. https://doi.org/10.21428/594757db.8718dc8b
+  Luo, C. F., Bhambhoria, R., Dahan, S., & Zhu, X. (2022). Evaluating Explanation Correctness in Legal Decision Making. Proceedings of the Canadian Conference on Artificial Intelligence. [https://doi.org/10.21428/594757db.8718dc8b](https://doi.org/10.21428/594757db.8718dc8b)
 
