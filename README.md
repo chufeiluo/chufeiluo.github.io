@@ -1,4 +1,5 @@
 Chufei Luo (they/them)
+
 [Portfolio](https://luochufei.carrd.co/) | [LinkedIn](https://www.linkedin.com/in/chu-fei-luo-40a18a171/) | [Github](https://github.com/chufeiluo)
 
 Hi! I'm a PhD student at Queen's University in Kingston, Ontario. My main area of research is applying the latest advancements in NLP to high-stakes tasks, with a focus on interpretability and reasoning. I used to be a software developer at IBM and I'm very interested in how NLP can be used in the industry!
