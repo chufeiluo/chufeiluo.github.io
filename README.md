@@ -1,9 +1,7 @@
-# chufeiluo.github.io
-
 Chufei Luo (they/them)
-[LinkedIn](https://www.linkedin.com/in/chu-fei-luo-40a18a171/) | [Github](https://github.com/chufeiluo)
+[Portfolio](https://luochufei.carrd.co/) | [LinkedIn](https://www.linkedin.com/in/chu-fei-luo-40a18a171/) | [Github](https://github.com/chufeiluo)
 
-MASc student at Queen's University in Kingston, Ontario. My main area of research is applying the latest advancements in NLP to high-stakes tasks, with a focus on interpretability and few-shot technologies. I've worked with various legal tasks including personal injury and legal citation prediction.
+Hi! I'm a PhD student at Queen's University in Kingston, Ontario. My main area of research is applying the latest advancements in NLP to high-stakes tasks, with a focus on interpretability and reasoning. I used to be a software developer at IBM and I'm very interested in how NLP can be used in the industry!
 
 Supervised by Dr. Xiaodan Zhu and Dr. Samuel Dahan.
 
