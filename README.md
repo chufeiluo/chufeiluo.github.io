@@ -1,4 +1,4 @@
-Chufei Luo (they/them)
+# Chufei Luo
 
 [Portfolio](https://luochufei.carrd.co/) | [LinkedIn](https://www.linkedin.com/in/chu-fei-luo-40a18a171/) | [Github](https://github.com/chufeiluo)
 
